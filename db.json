@@ -3,7 +3,28 @@
     {
       "id": "1",
       "title": "Dungeon Explorer",
-      "description": "Dungeon Crawler Game inspired on Legend Of Zelda"
+      "description": "Dungeon Crawler Game inspired on Legend Of Zelda",
+      "courseShort": "LPOO",
+      "course": "Objected Oriented Programming Laboratory",
+      "videos": {
+          "video1": "link1",
+          "video2": "link2"          
+        },
+      "images": {
+        "snapshot1": "link1",
+        "snapshot2": "link2"          
+      },
+      "download": "download_link",
+      "source": "source_link",
+      "languages": [
+        "Java"
+      ],
+      "tools": [
+        "libGDX",
+        "link2"
+      ],
+      "area": "Game Development"
+                 
     },
     {
       "id": "2",
