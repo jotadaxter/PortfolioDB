@@ -6,14 +6,14 @@
       "description": "Dungeon Crawler Game inspired on Legend Of Zelda",
       "courseShort": "LPOO",
       "course": "Objected Oriented Programming Laboratory",
-      "videos": {
-          "video1": "link1",
-          "video2": "link2"          
-        },
-      "images": {
-        "snapshot1": "link1",
-        "snapshot2": "link2"          
-      },
+      "videos": [
+        "link1",
+        "link2"
+      ],
+      "images": [
+        "dsgsd",
+        "fpg"          
+      ],
       "download": "download_link",
       "source": "source_link",
       "languages": [
@@ -35,14 +35,14 @@
       "description": "Dungeon Crawler Game inspired on Legend Of Zelda and located on the Faculty of Engineering of the University of Porto",
       "courseShort": "DJCO",
       "course": "Computer Games Development",
-      "videos": {
-          "video1": "link1",
-          "video2": "link2"          
-        },
-      "images": {
-        "snapshot1": "https://i.imgur.com/sMaCdZz.jpg",
-        "snapshot2": "https://i.imgur.com/SPbRDC1.jpg"          
-      },
+      "videos": [
+        "link1",
+        "link2"
+      ],
+      "images": [
+        "https://i.imgur.com/sMaCdZz.jpg",
+        "https://i.imgur.com/SPbRDC1.jpg"          
+      ],
       "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "languages": [
@@ -63,15 +63,15 @@
       "description": "3D shooter adventure game with puzzles and challenges",
       "courseShort": "DJCO",
       "course": "Computer Games Development",
-      "videos": {
-          "video1": "https://www.youtube.com/watch?v=LE20S1bDuhQ"         
-        },
-      "images": {
-        "snapshot1": "https://i.imgur.com/QifYxdb.png",
-        "snapshot2": "https://i.imgur.com/SN03u04.png",
-        "snapshot3": "https://i.imgur.com/6o80tW7.png",
-        "snapshot4": "https://i.imgur.com/pqDzAWE.png"         
-      },
+      "videos": [
+        "https://www.youtube.com/watch?v=LE20S1bDuhQ"
+      ],
+      "images": [
+        "https://i.imgur.com/QifYxdb.png",
+        "https://i.imgur.com/SN03u04.png",
+        "https://i.imgur.com/6o80tW7.png",
+        "https://i.imgur.com/pqDzAWE.png"         
+      ],
       "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "languages": [
