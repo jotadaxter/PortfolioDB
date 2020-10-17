@@ -6,15 +6,12 @@
       "description": "Dungeon Crawler Game inspired on Legend Of Zelda",
       "courseShort": "LPOO",
       "course": "Objected Oriented Programming Laboratory",
-      "videos": [
-        "link1",
-        "link2"
-      ],
+      "video": "link1",
       "images": [
         "dsgsd",
         "fpg"          
       ],
-      "download": "download_link",
+      "game": "download_link",
       "source": "source_link",
       "languages": [
         {"name": "Java", "link":"https://www.java.com/"}        
@@ -35,16 +32,13 @@
       "description": "Dungeon Crawler Game inspired on Legend Of Zelda and located on the Faculty of Engineering of the University of Porto",
       "courseShort": "DJCO",
       "course": "Computer Games Development",
-      "videos": [
-        "link1",
-        "link2"
-      ],
+      "video": "link1",
       "images": [
         "https://i.imgur.com/sMaCdZz.jpg",
         "https://i.imgur.com/SPbRDC1.jpg"          
       ],
-      "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
-      "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
+      "game": "https://doc-00-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/t2mod2gf6jrkn20npr4lgp0gs41mm3ju/1602957000000/11506506140861112980/11506506140861112980/1frMwPjyIHTdhLiHEMd5jEjH6RgHrWHio?e=download&authuser=0&nonce=17p3oa7co9h6o&user=11506506140861112980&hash=s1oa186s55699idlkhd5ii431fos52m9",
+      "source": "https://doc-14-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/cu0lr7tnli7pa6t4unc19bh0nk9j093l/1602957000000/11506506140861112980/11506506140861112980/10XcNidQ5McdXH4D_5icW1jSc4gZsRLEU?e=download&authuser=0",
       "languages": [
         {"name": "Java", "link":"https://www.java.com/"}
       ],
@@ -63,17 +57,15 @@
       "description": "3D shooter adventure game with puzzles and challenges",
       "courseShort": "DJCO",
       "course": "Computer Games Development",
-      "videos": [
-        "https://www.youtube.com/watch?v=LE20S1bDuhQ"
-      ],
+      "video": "https://www.youtube.com/watch?v=LE20S1bDuhQ",
       "images": [
         "https://i.imgur.com/QifYxdb.png",
         "https://i.imgur.com/SN03u04.png",
         "https://i.imgur.com/6o80tW7.png",
         "https://i.imgur.com/pqDzAWE.png"         
       ],
-      "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
-      "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
+      "game": "https://doc-10-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/gdk5dos85bpo5bcg3k7f3kbh17khhauh/1602957225000/11506506140861112980/11506506140861112980/1KE23uxWNyVGhR0Vcm1hIKiPSjN0K5F_U?e=download&authuser=0",
+      "source": "https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/bsnpuo2qpgbgic54lb21gljqlvomkon3/1602957225000/11506506140861112980/11506506140861112980/12fR-JEnvdQxj2LBnN4vs1DrcGDDi_Ws6?e=download&authuser=0",
       "languages": [
         {"name": "Java", "link":"https://www.java.com/"}
       ],
