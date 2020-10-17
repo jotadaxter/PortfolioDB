@@ -23,17 +23,68 @@
         "libGDX",
         "link2"
       ],
+      "platforms": [
+        "pc",
+        "android"
+      ],
       "area": "Game Development"
     },
     {
       "id": "2",
       "title": "FEUP Dungeon Explorer",
-      "description": "Dungeon Crawler Game inspired on Legend Of Zelda and located on the Faculty of Engineering of the University of Porto"
+      "description": "Dungeon Crawler Game inspired on Legend Of Zelda and located on the Faculty of Engineering of the University of Porto",
+      "courseShort": "DJCO",
+      "course": "Computer Games Development",
+      "videos": {
+          "video1": "link1",
+          "video2": "link2"          
+        },
+      "images": {
+        "snapshot1": "https://github.com/jotadaxter/FEUP-Dungeon-Explorer/blob/master/docs/DJCO-P1-G15-FEUP_Dungeon_Explorer-snapshot1.jpg",
+        "snapshot2": "https://github.com/jotadaxter/FEUP-Dungeon-Explorer/blob/master/docs/DJCO-P1-G15-FEUP_Dungeon_Explorer-snapshot2.jpg"          
+      },
+      "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
+      "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
+      "languages": [
+        "Java"
+      ],
+      "tools": [
+        "Unity",
+        "Tiled"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "area": "Game Development"
     },
     {
       "id":3,
       "title": "Elerehna",
-      "description": "3D shooter adventure game with puzzles and challenges"
+      "description": "3D shooter adventure game with puzzles and challenges",
+      "courseShort": "DJCO",
+      "course": "Computer Games Development",
+      "videos": {
+          "video1": "https://www.youtube.com/watch?v=LE20S1bDuhQ"         
+        },
+      "images": {
+        "snapshot1": "https://i.imgur.com/QifYxdb.png",
+        "snapshot2": "https://imgur.com/SN03u04",
+        "snapshot3": "https://imgur.com/6o80tW7",
+        "snapshot4": "https://imgur.com/pqDzAWE"         
+      },
+      "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
+      "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
+      "languages": [
+        "Java"
+      ],
+      "tools": [
+        "Unity",
+        "Tiled"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "area": "Game Development"
     }
   ]
 }
