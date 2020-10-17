@@ -17,84 +17,11 @@
       "download": "download_link",
       "source": "source_link",
       "languages": [
-        "Java",
-        "libGDX",
-        "libGDX",
-        "liefwebGDX",
-        "libGDX",
-        "libfwfGDX",
-        "libGDX",
-        "liffbGDX",
-        "lifbGDX",
-        "libGDX",
-        "libfffGDX",
-        "libGDX",
-        "libGffDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGfDX",
-        "libfGDX",
-        "libGDX",
-        "libffGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libffGDX",
-        "libGDX",
-        "libGDX",
-        "libGDfX",
-        "libGDX",
-        "libGDfX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libfGDX",
-        "libGDX",
-        "libfGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "libfGDX",
-        "libGDX",
-        "libGDX",
-        "libGDfX",
-        "libGDX",
-        "lifbGfDX",
-        "libGfDX",
-        "libfGDX",
-        "libGfDX",
-        "libGDX",
-        "libGDX",
-        "libGDX",
-        "lifbGDX",
-        "libGDX",
-        "lifbfGDX",
-        "libGDX",
-        "libGDfX",
-        "libGDX",
-        "libGDX",
-        "libGDfX",
-        "libGDfX",
-        "libGDX",
-        "libGDX",
-        "libGDX"
+        {"name": "Java", "link":"https://www.java.com/"}        
       ],
       "tools": [
-        "libGDX",
-        "link2"
+        {"name":"libGDX", "link":"https://libgdx.badlogicgames.com/"},
+        {"name":"Tiled", "link":"https://www.mapeditor.org"}
       ],
       "platforms": [
         "pc",
@@ -119,11 +46,11 @@
       "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "languages": [
-        "Java"
+        {"name": "Java", "link":"https://www.java.com/"}
       ],
       "tools": [
-        "Unity",
-        "Tiled"
+        {"name":"Unity", "link":"https://unity.com"},
+        {"name":"Tiled", "link":"https://www.mapeditor.org"}
       ],
       "platforms": [
         "pc"
@@ -148,11 +75,12 @@
       "download": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "source": "https://drive.google.com/drive/folders/1sLbCodqC0cKsZbxdWoBGJ3ixyRZ3kMcZ",
       "languages": [
-        "Java"
+        {"name": "Java", "link":"https://www.java.com/"}
       ],
       "tools": [
-        "Unity",
-        "Tiled"
+        {"name": "Unreal Engine 4", "link":"https://www.unrealengine.com/en-US"},
+        {"name": "Blender", "link": "https://www.blender.org"},
+        {"name": "FMOD", "link": "https://www.fmod.com"}
       ],
       "platforms": [
         "pc"
