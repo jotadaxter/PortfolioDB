@@ -129,6 +129,69 @@
       {"name":"Spanish"}
     ]
 
-  }
+  },
+  "education": [
+    {
+      "date": "2019-2020", 
+      "title":"Studies Abroad",
+      "description":"Erasmus+ Program",
+      "location":"UITM, Rzeszow, Poland"
+    },
+    {
+      "date": "since 2015", 
+      "title":"Master’s Degree",
+      "description":"Master In Informatics and Computing Engineering",
+      "location":"FEUP, Porto, Portugal"
+    },
+    {
+      "date": "2015-2019", 
+      "title":"Bachelor’s Degree",
+      "description":"Bachelor in Informatics and Computing Engineering",
+      "location":"FEUP, Porto, Portugal"
+    },
+    {
+      "date": "2013-2015", 
+      "title":"High school",
+      "description":"Specializing in Science and Tecnologies",
+      "location":"Colégio da Trofa, Trofa, Portugal"
+    },
+    {
+      "date": "2012-2013", 
+      "title":"High school",
+      "description":"Specializing in Science and Tecnologies",
+      "location":"Secundária do Castelo da Maia, Maia, Portugal"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2018-2019", 
+      "title":"Digital in store note!",
+      "description":"Development of and app for note! to informatize and centralize their field operations, delegate tasks through the company’s chain of command, and productivity of employees through gamifiction of work tasks.",
+      "theme":"Web Application",
+      "intitutions": [
+        "note!",
+        "FEUP"
+      ] 
+    },
+    {
+      "date": "10/10/2018", 
+      "title":"Open Day Farfetch",
+      "description":"Visit to Farfetch Office facilities, presentation of the Company and Operations Challenge Team Work",
+      "theme":"Company Open Day",
+      "intitutions": [
+        "Farfetch"
+      ] 
+    },
+    {
+      "date": "22/11/2019", 
+      "title":"Lisboa Games Week",
+      "description":"Demonstration of Elerehna game on the event",
+      "theme":"Game Development",
+      "intitutions": [
+        "FEUP",
+        "Lisboa Games Week"
+      ] 
+    }
+  ]
     
 }
