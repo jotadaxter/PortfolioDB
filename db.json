@@ -79,5 +79,56 @@
       ],
       "area": "Game Development"
     }
-  ]
+  ],
+  "skills": {
+    "programming_languages": [
+      {"name": "Java", "link":"https://www.java.com/" }, 
+      {"name": "JS", "link":"https://www.javascript.com/" },
+      {"name": "Typescript", "link":"https://www.typescriptlang.org/" },
+      {"name": "C/C++", "link":"http://www.cplusplus.com/" },
+      {"name": "C#", "link":"https://docs.microsoft.com/en-us/dotnet/csharp/" },
+      {"name": "PHP", "link":"https://www.php.net/" },
+      {"name": "HTML", "link":"https://www.w3.org/standards/webdesign/htmlcss" },
+      {"name": "CSS", "link":"https://www.w3.org/standards/webdesign/htmlcss" },
+      {"name": "Visual Basic", "link":"https://docs.microsoft.com/en-us/dotnet/visual-basic/" }
+    ],
+    "frameworks": [
+      {"name":"Laravel", "link":"https://laravel.com/"},
+      {"name":"Angular", "link":"https://angular.io/"},
+      {"name":"Razor Pages", "link":"https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio"},
+      {"name":"React Native", "link":"https://reactnative.dev/"}
+    ],
+    "databases": [
+      {"name":"SQLite", "link":"https://www.sqlite.org/index.html"},
+      {"name":"PostgreSQL", "link":"https://www.postgresql.org/"},
+      {"name":"MySQL", "link":"https://www.mysql.com/"},
+      {"name":"Oracle SQL", "link":"https://www.oracle.com/database/technologies/appdev/sql.html"},
+      {"name":"MongoDB", "link":"https://www.mongodb.com/"},
+      {"name":"Neo4j", "link":"https://neo4j.com/"}
+    ],
+    "tools": [
+      {"name":"LibGDX", "link":"https://libgdx.badlogicgames.com/"},
+      {"name":"Unity", "link":"https://unity.com/"},
+      {"name":"Unreal Engine 4", "link":"https://www.unrealengine.com/"},
+      {"name":"Git", "link":"https://git-scm.com/"},
+      {"name":"Gimp", "link":"https://www.gimp.org/"},
+      {"name":".NET", "link":"https://dotnet.microsoft.com/"},
+      {"name":"Bootstrap", "link":"https://getbootstrap.com/"},
+      {"name":"WebGL", "link":"https://get.webgl.org/"},
+      {"name":"Maxima", "link":"http://maxima.sourceforge.net/"},
+      {"name":"Excel", "link":"https://www.microsoft.com/pt-pt/microsoft-365/excel"},
+      {"name":"Latex", "link":"https://www.latex-project.org/"}
+    ],
+    "os": [
+      {"name":"Windows", "link":"https://www.microsoft.com/pt-pt/windows/"},
+      {"name":"Linux", "link":"https://ubuntu.com/"}
+    ],
+    "languages":[
+      {"name":"Portuguese"},
+      {"name":"English", "classification": "B2"},
+      {"name":"Spanish"}
+    ]
+
+  }
+    
 }
