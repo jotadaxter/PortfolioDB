@@ -1,31 +1,33 @@
 {
   "projects": [
     {
-      "id": "1",
-      "title": "Dungeon Explorer",
-      "description": "Dungeon Crawler Game inspired on Legend Of Zelda",
-      "courseShort": "LPOO",
-      "course": "Objected Oriented Programming Laboratory",
-      "video": "link1",
+      "id":1,
+      "title": "Elerehna",
+      "description": "3D shooter adventure game with puzzles and challenges",
+      "courseShort": "DJCO",
+      "course": "Computer Games Development",
+      "video": "https://www.youtube.com/embed/LE20S1bDuhQ",
       "images": [
-        "dsgsd",
-        "fpg"          
+        "https://i.imgur.com/QifYxdb.png",
+        "https://i.imgur.com/SN03u04.png",
+        "https://i.imgur.com/6o80tW7.png",
+        "https://i.imgur.com/pqDzAWE.png"         
       ],
-      "game": "download_link",
-      "source": "source_link",
+      "game": "https://doc-10-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/gdk5dos85bpo5bcg3k7f3kbh17khhauh/1602957225000/11506506140861112980/11506506140861112980/1KE23uxWNyVGhR0Vcm1hIKiPSjN0K5F_U?e=download&authuser=0",
+      "source": "https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/bsnpuo2qpgbgic54lb21gljqlvomkon3/1602957225000/11506506140861112980/11506506140861112980/12fR-JEnvdQxj2LBnN4vs1DrcGDDi_Ws6?e=download&authuser=0",
       "languages": [
-        {"name": "Java", "link":"https://www.java.com/"}        
+        {"name": "Java", "link":"https://www.java.com/"}
       ],
       "tools": [
-        {"name":"libGDX", "link":"https://libgdx.badlogicgames.com/"},
-        {"name":"Tiled", "link":"https://www.mapeditor.org"}
+        {"name": "Unreal Engine 4", "link":"https://www.unrealengine.com/en-US"},
+        {"name": "Blender", "link": "https://www.blender.org"},
+        {"name": "FMOD", "link": "https://www.fmod.com"}
       ],
       "platforms": [
-        "pc",
-        "android"
+        "pc"
       ],
       "area": "Game Development"
-    },
+    },   
     {
       "id": "2",
       "title": "FEUP Dungeon Explorer",
@@ -52,33 +54,31 @@
       "area": "Game Development"
     },
     {
-      "id":3,
-      "title": "Elerehna",
-      "description": "3D shooter adventure game with puzzles and challenges",
-      "courseShort": "DJCO",
-      "course": "Computer Games Development",
-      "video": "https://www.youtube.com/embed/LE20S1bDuhQ",
+      "id": "3",
+      "title": "Dungeon Explorer",
+      "description": "Dungeon Crawler Game inspired on Legend Of Zelda",
+      "courseShort": "LPOO",
+      "course": "Objected Oriented Programming Laboratory",
+      "video": "link1",
       "images": [
-        "https://i.imgur.com/QifYxdb.png",
-        "https://i.imgur.com/SN03u04.png",
-        "https://i.imgur.com/6o80tW7.png",
-        "https://i.imgur.com/pqDzAWE.png"         
+        "dsgsd",
+        "fpg"          
       ],
-      "game": "https://doc-10-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/gdk5dos85bpo5bcg3k7f3kbh17khhauh/1602957225000/11506506140861112980/11506506140861112980/1KE23uxWNyVGhR0Vcm1hIKiPSjN0K5F_U?e=download&authuser=0",
-      "source": "https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/tv3m6gelufk72u1hdldsss8s09009fm9/bsnpuo2qpgbgic54lb21gljqlvomkon3/1602957225000/11506506140861112980/11506506140861112980/12fR-JEnvdQxj2LBnN4vs1DrcGDDi_Ws6?e=download&authuser=0",
+      "game": "download_link",
+      "source": "source_link",
       "languages": [
-        {"name": "Java", "link":"https://www.java.com/"}
+        {"name": "Java", "link":"https://www.java.com/"}        
       ],
       "tools": [
-        {"name": "Unreal Engine 4", "link":"https://www.unrealengine.com/en-US"},
-        {"name": "Blender", "link": "https://www.blender.org"},
-        {"name": "FMOD", "link": "https://www.fmod.com"}
+        {"name":"libGDX", "link":"https://libgdx.badlogicgames.com/"},
+        {"name":"Tiled", "link":"https://www.mapeditor.org"}
       ],
       "platforms": [
-        "pc"
+        "pc",
+        "android"
       ],
       "area": "Game Development"
-    }
+    }   
   ],
   "skills": {
     "programming_languages": [
