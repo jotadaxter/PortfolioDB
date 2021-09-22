@@ -96,6 +96,7 @@
       {"name":"Laravel", "link":"https://laravel.com/"},
       {"name":"Angular", "link":"https://angular.io/"},
       {"name":"Razor Pages", "link":"https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio"},
+      {"name":"React", "link":"https://reactjs.org/"},
       {"name":"React Native", "link":"https://reactnative.dev/"}
     ],
     "databases": [
@@ -106,15 +107,20 @@
       {"name":"MongoDB", "link":"https://www.mongodb.com/"},
       {"name":"Neo4j", "link":"https://neo4j.com/"}
     ],
-    "tools": [
+    "technologies": [
       {"name":"LibGDX", "link":"https://libgdx.badlogicgames.com/"},
       {"name":"Unity", "link":"https://unity.com/"},
       {"name":"Unreal Engine 4", "link":"https://www.unrealengine.com/"},
-      {"name":"Git", "link":"https://git-scm.com/"},
-      {"name":"Gimp", "link":"https://www.gimp.org/"},
-      {"name":".NET", "link":"https://dotnet.microsoft.com/"},
-      {"name":"Bootstrap", "link":"https://getbootstrap.com/"},
+      {"name":"Hyperledger Fabric", "link":"https://www.hyperledger.org/use/fabric"},
       {"name":"WebGL", "link":"https://get.webgl.org/"},
+      {"name":".NET", "link":"https://dotnet.microsoft.com/"},
+      {"name":"Express.js", "link":"https://expressjs.com/"},
+      {"name":"Bootstrap", "link":"https://getbootstrap.com/"},
+      {"name":"Material UI", "link":"https://mui.com/"},
+      {"name":"Redux", "link":"https://redux.js.org/"}
+    ],
+    "tools": [
+      {"name":"Git", "link":"https://git-scm.com/"},
       {"name":"Maxima", "link":"http://maxima.sourceforge.net/"},
       {"name":"Excel", "link":"https://www.microsoft.com/pt-pt/microsoft-365/excel"},
       {"name":"Latex", "link":"https://www.latex-project.org/"}
@@ -163,6 +169,17 @@
     }
   ],
   "experience": [
+    {
+      "date": "2020-2021", 
+      "title":"Internship at MOG Technologies",
+      "description":"Internship for the development of my Dissertation named “Online Platform for Safe and Dynamic Licensing of Movies based on Blockchain”, integrated within the European Project MAP, supported by the EIT.",
+      "theme":"Dissertation",
+      "intitutions": [
+        "MOG Technologies",
+        "FEUP", 
+        "EIT"
+      ] 
+    },
     {
       "date": "2018-2019", 
       "title":"Digital in store note!",
